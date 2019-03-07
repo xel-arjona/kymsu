@@ -1,5 +1,6 @@
 # KYMSU
 Keep Your macOs Stuff Updated (KYMSU)
+[ XeL Fork ]
 
 > Get your Homebrew, Mac App Store, Atom Package Manager (apm), npm, yarn, composer, rustup ... stuff updated.
 
@@ -9,7 +10,7 @@ Keep Your macOs Stuff Updated (KYMSU)
 
 ## Installation
 
-`$ git clone git@github.com:welcoMattic/kymsu.git && cd kymsu && ./install.sh`
+`$ git clone git@github.com:xel-arjona/kymsu.git && cd kymsu && ./install.sh`
 
 ## Usage
 
