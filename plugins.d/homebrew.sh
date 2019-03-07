@@ -13,7 +13,7 @@ if hash brew 2>/dev/null; then
   echo ""
 
   if [[ $1 == "cleanup" ]]; then
-    echo "🍺💉🌬   Cleaning brewery"
+    echo "🍺🚿🌬   Cleaning The Brewery...!"
     brew cleanup -s
   fi
 fi
